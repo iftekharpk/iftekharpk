@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Iftekhar Ahmed
 
-<!--
-**iftekharpk/iftekharpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year CSE Student at AIUB  
+💻 Passionate about C, C++, Java & DSA  
+🚀 Working on Algorithms, Database Projects, and Full Stack Basics  
+📚 Problem Solver | Fast Learner | Future Developer
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- C, C++, Java (basic)
+- DSA: Stack, Queue, Linked List
+- MySQL, Oracle
+- Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Student Record Manager (C++)
+- Banking System (Java OOP)
+- Simple Portfolio Website (HTML, CSS)
+
+## 📫 Reach me:
+- Email: iftekharifte1212@gmail.com
+- LinkedIn: [Iftekhar Ahmed](https://www.linkedin.com/in/iftekhar-ahmed-493693283/)
