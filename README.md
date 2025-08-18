@@ -12,8 +12,8 @@
 - Git, GitHub, VS Code
 
 ## 📌 Projects
-- Student Record Manager (C++)
-- Banking System (Java OOP)
+- Student  Management system (C++)
+- Bouncing-ball-animation
 - Simple Portfolio Website (HTML, CSS)
 
 ## 📫 Reach me:
